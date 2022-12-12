@@ -59,7 +59,7 @@ const ConfigScreen = () => {
   return (
     <Flex flexDirection="column" className={css({ margin: '80px', maxWidth: '800px' })}>
       <Form>
-        <Heading>App Config</Heading>
+        <Heading>Blog Post Metrics Config</Heading>
         <Paragraph>Welcome to your contentful app. This is your config page.</Paragraph>
       </Form>
     </Flex>
